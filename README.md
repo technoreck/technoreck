@@ -1,6 +1,6 @@
 
 <p align="center"><a href="https://github.com/technoreck">
- <img src="" />
+ <img src="https://raw.githubusercontent.com/technoreck/technoreck/main/dead_hack-MK.jpg" />
  </p>
  <p align="right">
   <a href="https://www.linkedin.com/in/mahendra-kumar-3a91131b8/"><img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/linkedin-64.png" width=21 ></a>
