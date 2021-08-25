@@ -9,7 +9,7 @@
   </p>
 
 <h2><i>Hello there ! 😉</i></h2>
-<i>I'm Cypher_XGOD</i>
+<i>I'm technoreck</i>
 <br>
 <b> More bout me :</b>
 
