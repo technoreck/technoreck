@@ -20,6 +20,7 @@
 * Interested in web development and aspire to become a MERN full stack developer.
 
 <br>
+<h2>Github Stats :</h2>
 <p align="center"><a href="https://github.com/technoreck">
 <img src="https://github-readme-stats.vercel.app/api?username=technoreck&show_icons=true&theme=radical&layout=compact&hide_border=true" width="400"></a>
  &nbsp;&nbsp;&nbsp;
@@ -29,7 +30,7 @@
  <br>
  </p>
  
- <h2 align="center">Languages and Applications :</h2>
+ <h2 align="left">Languages and Applications :</h2>
  
  <p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=50>
