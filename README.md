@@ -8,7 +8,7 @@
 
   </p>
 
-<h2><i>Hello there ! 😉</i></h2>
+<h2><i>Hello there ! &#128526</i></h2>
 <i>I'm technoreck</i>
 <br>
 <b> More bout me :</b>
