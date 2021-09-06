@@ -21,9 +21,9 @@
 
 <br>
 <p align="center"><a href="https://github.com/technoreck">
-<img src="https://github-readme-stats.vercel.app/api?username=technoreck&show_icons=true&theme=radical&layout=compact&hide_border=true" width="450"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=technoreck&show_icons=true&theme=radical&layout=compact&hide_border=true" width="400"></a>
  &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/technoreck"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoreck&layout=compact&theme=radical&hide_border=true" width="450">
+<a href="https://github.com/technoreck"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoreck&layout=compact&theme=radical&hide_border=true" width="400">
 </a>
  <br>
  <br>
