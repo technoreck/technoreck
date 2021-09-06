@@ -9,9 +9,9 @@
   </p>
 
 <h2><i>Hello there ! &#128526</i></h2>
-<i>I'm technoreck</i>
+<i><b>I'm technoreck</b></i>
 <br>
-<b> More bout me :</b>
+<h2>More bout me :</h2>
 
 * An undergraduate student in CSE(specialization in cyber security) at Vellore Institute of Technology.
 * Cyber security enthusiast and my domains of interest are network and web security.
