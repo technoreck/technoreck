@@ -13,9 +13,10 @@
 <br>
 <b> More bout me :</b>
 
-*
-*
-*
+* An undergraduate student in CSE(specialization in cyber security) at Vellore Institute of Technology.
+* Cyber security enthusiast and my domains of interest are network and web security.
+* Programmer and good in C++ and python, and enjoy doing cometetive programming #codechef #hackerrank.
+* Interested in web development and aspire to become a MERN full stack developer.
 
 <p align="center"><a href="https://github.com/technoreck">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=technoreck&show_icons=true&theme=radical&layout=compact&hide_border=true" /></a>
