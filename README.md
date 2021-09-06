@@ -19,13 +19,15 @@
 * Interested in web development and aspire to become a MERN full stack developer.
 
 <p align="center"><a href="https://github.com/technoreck">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=technoreck&show_icons=true&theme=radical&layout=compact&hide_border=true" /></a>
+<img length="150" src="https://github-readme-stats.vercel.app/api?username=technoreck&show_icons=true&theme=radical&layout=compact&hide_border=true" align="center"/></a>
  &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/technoreck"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoreck&layout=compact&theme=radical&hide_border=true" height=160/>
+ <br><br>
+<a href="https://github.com/technoreck"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoreck&layout=compact&theme=radical&hide_border=true" length="200" align="center"/>
 </a>
+ <br>
  </p>
  
- <h2>Languages and Applications :</h2>
+ <h2 align="center">Languages and Applications :</h2>
  
  <p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=50>
