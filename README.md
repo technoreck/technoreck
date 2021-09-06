@@ -18,12 +18,13 @@
 * Programmer and good in C++ and python, and enjoy doing cometetive programming #codechef #hackerrank.
 * Interested in web development and aspire to become a MERN full stack developer.
 
+<br>
 <p align="center"><a href="https://github.com/technoreck">
-<img length="150" src="https://github-readme-stats.vercel.app/api?username=technoreck&show_icons=true&theme=radical&layout=compact&hide_border=true" align="center"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=technoreck&show_icons=true&theme=radical&layout=compact&hide_border=true" width="450"></a>
  &nbsp;&nbsp;&nbsp;
- <br><br>
-<a href="https://github.com/technoreck"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoreck&layout=compact&theme=radical&hide_border=true" length="200" align="center"/>
+<a href="https://github.com/technoreck"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoreck&layout=compact&theme=radical&hide_border=true" width="450">
 </a>
+ <br>
  <br>
  </p>
  
