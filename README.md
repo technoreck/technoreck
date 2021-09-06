@@ -3,8 +3,9 @@
  <img src="https://raw.githubusercontent.com/technoreck/technoreck/main/dead_hack-MK.jpg" height=270 width=480/>
  </p>
  <p align="right">
-  <a href="https://www.linkedin.com/in/mahendra-kumar-3a91131b8/"><img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/linkedin-64.png" width=21 ></a>
-  <a href="https://www.instagram.com/technohack/"><img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/a00b44f21c5df1c5b2fc2bd4efaa3b2e0361e1d6/instagram.svg" width=21/></a>
+  <a href="https://www.linkedin.com/in/mahendra-kumar-3a91131b8/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=30 ></a>
+  <a href="https://www.instagram.com/technohack/"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width=30/></a>
+  <a href="https://twitter.com/CypherXGOD/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width=30/></a>
 
   </p>
 
