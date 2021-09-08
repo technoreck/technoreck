@@ -10,14 +10,14 @@
   </p>
 
 <h2><i>Hello there ! &#128526</i></h2>
-<i><b>I'm technoreck</b></i>
+<i><b>I'm Mahendra Kumar(technoreck)</b></i>
 <br>
 <h2>More bout me :</h2>
 
-* An undergraduate student in CSE(specialization in cyber security) at Vellore Institute of Technology.
+* <i>An undergraduate student in CSE(specialization in cyber security) at Vellore Institute of Technology.
 * Cyber security enthusiast and my domains of interest are network and web security.
 * Programmer and good in C++ and python, and enjoy doing cometetive programming #codechef #hackerrank.
-* Interested in web development and aspire to become a MERN full stack developer.
+* Interested in web development and aspire to become a MERN full stack developer.</i>
 
 <br>
 <h2>Github Stats :</h2>
