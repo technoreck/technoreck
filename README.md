@@ -17,7 +17,7 @@
 * <i>An undergraduate student in CSE(specialization in cyber security) at Vellore Institute of Technology.
 * Cyber security enthusiast and my domains of interest are network and web security.
 * Programmer and good in C++ and python, and enjoy doing cometetive programming #codechef #hackerrank.
-* Interested in web development and aspire to become a MEAN full stack developer.</i>
+* Interested in web development and aspire to become a MERN full stack developer.</i>
 
 <br>
 <h2>Github Stats :</h2>
@@ -42,7 +42,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=50>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width=50>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width=50>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=50>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width=50>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=50>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width=50>
