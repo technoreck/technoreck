@@ -5,7 +5,7 @@
  <p align="right">
   <a href="https://www.linkedin.com/in/mahendra-kumar-3a91131b8/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=30 ></a>
   <a href="https://www.instagram.com/technohack/"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width=30/></a>
-  <a href="https://twitter.com/CypherXGOD/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width=30/></a>
+  <a href="https://twitter.com/cyboptic/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width=30/></a>
 
   </p>
 
