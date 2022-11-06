@@ -30,6 +30,12 @@
  <br>
  </p>
  
+ <h2 align="left">My Hacktoberfest badges :</h2>
+ <p>
+ <img src="https://holopin.me/technoreck">
+ </p>
+
+ 
  <h2 align="left">Languages and Applications :</h2>
  
  <p>
