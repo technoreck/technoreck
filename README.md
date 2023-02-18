@@ -1,6 +1,6 @@
 
 <p align="center"><a href="https://github.com/technoreck">
- <img src="https://avatars.githubusercontent.com/u/80055239?v=4" height=500 width=600/>
+ <img src="https://user-images.githubusercontent.com/80055239/219880429-b033a56c-f9af-4f89-b576-a33e788fd7fa.png">
  </p>
  <p align="right">
   <a href="https://www.linkedin.com/in/mahendra-kumar-3a91131b8/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=30 ></a>
