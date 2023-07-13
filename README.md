@@ -34,6 +34,10 @@
  <p>
  <img src="https://holopin.me/technoreck">
  </p>
+ 
+ <h2 align="left"> My LeetCode Stats: </h2>
+ 
+ ![LeetCode Stats](https://leetcode.card.workers.dev/technoreck?theme=dark&font=source_code_pro&extension=activity)
 
  
  <h2 align="left">Languages and Applications :</h2>
