@@ -16,7 +16,7 @@
 
 * <i>An undergraduate student in CSE(specialization in cyber security) at Vellore Institute of Technology.
 * Cyber security enthusiast and my domains of interest are network and web security.
-* Programmer and good in C++ and python, and enjoy doing cometetive programming #codechef #hackerrank.
+* Programmer and good in C++ and python, and enjoy doing cometetive programming #codechef #LeetCode.
 * Interested in web development and aspire to become a MERN full stack developer.</i>
 
 <br>
