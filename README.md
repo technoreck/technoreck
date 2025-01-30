@@ -14,10 +14,10 @@
 <br>
 <h2>More bout me :</h2>
 
-* <i>An undergraduate student in CSE(specialization in cyber security) at Vellore Institute of Technology.
-* Cyber security enthusiast and my domains of interest are network and web security.
-* Programmer and good in C++ and python, and enjoy doing cometetive programming #codechef #LeetCode.
-* Interested in web development and aspire to become a MERN full stack developer.</i>
+* <i>hi, I am a Devops Engineer and an Ethical Hacker.
+* I am Cyber security enthusiast and my domains of interest are network and Cloud security.
+* Programmer, like problem solving and good in DSA, and enjoy doing cometetive programming #codechef #LeetCode.
+* Interested in a Security job role.</i>
 
 <br>
 <h2>Github Stats :</h2>
